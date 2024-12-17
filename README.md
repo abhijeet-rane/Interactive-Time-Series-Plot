@@ -35,3 +35,12 @@ Follow these steps to run the project:
 1. **Clone this repository**:  
    ```bash
    git clone https://github.com/your_username/interactive-time-series-plot.git
+
+2. **Install required libraries**:
+   ```bash
+   pip install pandas matplotlib
+   
+3. **Prepare your dataset**:
+   Place your dataset `data_csv.csv` in the project directory.
+   
+5. 
