@@ -30,10 +30,11 @@ The dataset `data_csv.csv` contains historical financial data with the following
 ---
 
 ## **Output**:
-![Project Screenshot](images/output_1.png)
-![Project Screenshot](images/output_2.png)
-![Project Screenshot](images/output_3.png)
 <img src="images/output_1.png" alt="Project Screenshot" width="500"/>
+
+<img src="images/output_2.png" alt="Project Screenshot" width="500"/>
+
+<img src="images/output_3.png" alt="Project Screenshot" width="500"/>
 
 ---
 
