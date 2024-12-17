@@ -29,6 +29,13 @@ The dataset `data_csv.csv` contains historical financial data with the following
 
 ---
 
+## **Output**:
+![Project Screenshot](images/output_1.png)
+![Project Screenshot](images/output_2.png)
+![Project Screenshot](images/output_3.png)
+
+---
+
 ## **How to Run**  
 Follow these steps to run the project:  
 
@@ -43,4 +50,20 @@ Follow these steps to run the project:
 3. **Prepare your dataset**:
    Place your dataset `data_csv.csv` in the project directory.
    
-5. 
+4. **Run the script**:
+   ```bash
+   python interactive_plot.py
+   
+5. **View the Output**:
+   A time series plot will appear showing the trends of "Real Price" and "Real Earnings".
+
+---
+
+## **Future Enhancements**  
+- Add dropdown selectors to choose different financial metrics dynamically.  
+- Implement a time-range slider for improved data filtering.
+
+---
+
+## **Conclusion**
+This project provides a clear and dynamic visualization of time series data, helping users analyze financial trends effectively. Also incorporated with interactive features which provides more engaging and flexible data exploration capabilities.
