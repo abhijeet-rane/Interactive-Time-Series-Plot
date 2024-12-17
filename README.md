@@ -32,7 +32,9 @@ The dataset `data_csv.csv` contains historical financial data with the following
 ## **Output**:
 <img src="images/output_1.png" alt="Project Screenshot" width="500"/>
 
+
 <img src="images/output_2.png" alt="Project Screenshot" width="500"/>
+
 
 <img src="images/output_3.png" alt="Project Screenshot" width="500"/>
 
