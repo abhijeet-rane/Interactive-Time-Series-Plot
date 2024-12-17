@@ -1,7 +1,7 @@
 # **Interactive Time Series Plot with Dynamic Price Action Visualization**
 
 ## **Project Description**  
-This project visualizes historical financial data trends (e.g., Real Price and Real Earnings) over time. Using **Matplotlib**, the program dynamically adjusts plot colors to highlight price movements (up/down) and provides a clear understanding of data trends. The solution aims to help users analyze **time series data** effectively. The code can be extended to make the visualization interactive using tools like **Plotly** or **Bokeh**.
+This project visualizes historical financial data trends (e.g., Real Price and Real Earnings) over time. Using **Matplotlib**, the program dynamically adjusts plot colors to highlight price movements (up/down) and provides interactive visualization which provides a clear understanding of data trends. The solution aims to help users analyze **time series data** effectively.
 
 ---
 
